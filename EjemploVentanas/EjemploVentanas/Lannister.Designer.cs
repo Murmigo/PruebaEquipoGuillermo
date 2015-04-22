@@ -33,6 +33,7 @@
             // 
             // button1
             // 
+            this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.button1.Location = new System.Drawing.Point(106, 110);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
