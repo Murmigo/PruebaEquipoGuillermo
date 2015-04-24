@@ -15,6 +15,8 @@ namespace EjemploVentanas
         public Baratheon()
         {
             InitializeComponent();
+            label1.Width = 120;
+            
         }
     }
 }
